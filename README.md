@@ -1,5 +1,5 @@
 # TSP
-Implementa el algoritmo de la colonia de las hormigas y uno de fuerza bruta para solucionar el problema del viajante [TSP].
+Implementa el algoritmo de la colonia de las hormigas [ACO] y uno de fuerza bruta para solucionar el problema del viajante [TSP].
 
 **Definiciones**
 
@@ -23,3 +23,12 @@ Descargue el archivo jar más reciente.
 
 * Designar una hormiga por nodo en lugar de definir una constante de hormigas.
 * Implementar una interfaz gráfica para visualizar la ejecución de ambos algoritmos.
+
+### Créditos, fuentes
+
+* Fuerza bruta: https://github.com/Bjoern/Traveling-Salesman
+* ACO: https://github.com/eugenp/tutorials/tree/master/algorithms-modules/algorithms-genetic
+
+### Declaraciones
+
+Este proyecto solo tiene fines investigativos, no comerciales.
