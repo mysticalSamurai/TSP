@@ -11,7 +11,7 @@ Implementa el algoritmo de la colonia de las hormigas [ACO] y uno de fuerza brut
 
 Descargue el archivo jar más reciente.
 
-**Dependencies**
+**Dependencias**
 
 + JRE 17 or JDK 17
 
